@@ -25,6 +25,3 @@ The dataset contains 205,052 product reviews including product name, price, rati
 - NLTK
 - Scikit-learn
 - Matplotlib / Seaborn
-
-## Author
-Isibor Esther
